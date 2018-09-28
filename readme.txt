@@ -6,3 +6,4 @@ git checkout dev
 git checkout -b dev
 git merge dev
 git branch -d dev
+git btestp asdfasdf 
